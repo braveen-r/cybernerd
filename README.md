@@ -180,6 +180,22 @@ Built collaboratively by a team of **3 members**:
 
 ---
 
+## Preview
+
+### Desktop View
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96aa69d9-265d-4ff9-9368-7f98d2d4322d" alt="Desktop Preview" width="100%" />
+</p>
+
+### Mobile View
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6fd40696-3cee-4431-94e0-354623e3da69" alt="Mobile Preview 1" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d06b3f76-1200-431e-ba2e-b175e67e6bfb" alt="Mobile Preview 2" width="45%" />
+</p>
+
+---
+
 ## ⚠️ Safety & Usage Disclaimer
 
 Run `honeypot.py` strictly inside authorized lab, test, or isolated environments. Never expose unhardened decoy listeners directly to untrusted networks without proper isolation and authorization.

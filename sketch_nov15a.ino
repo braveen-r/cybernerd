@@ -1,3 +1,5 @@
+// --- Use this file in Arduino IDE ---
+
 #include <WiFi.h>
 #include <ThingSpeak.h>
 #include <Wire.h>
